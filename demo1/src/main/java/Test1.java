@@ -4,4 +4,14 @@ public class Test1 {
 
         System.out.println("====================================");
     }
+
+    private void test1(){
+
+        System.out.println("====================================");
+    }
+
+    private void test2(){
+
+        System.out.println("====================================");
+    }
 }
